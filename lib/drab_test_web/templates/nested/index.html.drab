@@ -2,7 +2,8 @@
      drab-click="parent">
   PARENT
   <div class="py-3 bg-light"
-       drab-click="child">
+       drab-click="child"
+       drab-option="stopPropagation">
     CHILD
   </div>  
 </div>
