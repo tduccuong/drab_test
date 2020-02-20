@@ -4,7 +4,7 @@
   "cowlib": {:hex, :cowlib, "2.8.0", "fd0ff1787db84ac415b8211573e9a30a3ebe71b5cbff7f720089972b2319c8a4", [:rebar3], [], "hexpm", "79f954a7021b302186a950a32869dbc185523d99d3e44ce430cd1f3289f41ed4"},
   "deppie": {:hex, :deppie, "1.1.2", "6e90b0baf70055ee85b5d87c1649f39acb05df3c24d4d46f90a4a03b8e57619f", [:mix], [{:global_flags, "~> 1.0", [hex: :global_flags, repo: "hexpm", optional: false]}], "hexpm", "868a2455a54e877316038ad610f589bdb25cee2afe247c55dab589c66b99a7c1"},
   "distillery": {:hex, :distillery, "2.1.1", "f9332afc2eec8a1a2b86f22429e068ef35f84a93ea1718265e740d90dd367814", [:mix], [{:artificery, "~> 0.2", [hex: :artificery, repo: "hexpm", optional: false]}], "hexpm", "bbc7008b0161a6f130d8d903b5b3232351fccc9c31a991f8fcbf2a12ace22995"},
-  "drab": {:git, "https://github.com/grych/drab.git", "b993d054f3293490360ac2427bfff2ac756eb1aa", [branch: "master"]},
+  "drab": {:git, "https://github.com/grych/drab.git", "aec35c2b6e0475e250d75b3e7bbe43d41916ac38", [branch: "master"]},
   "file_system": {:hex, :file_system, "0.2.8", "f632bd287927a1eed2b718f22af727c5aeaccc9a98d8c2bd7bff709e851dc986", [:mix], [], "hexpm", "97a3b6f8d63ef53bd0113070102db2ce05352ecf0d25390eb8d747c2bde98bca"},
   "floki": {:hex, :floki, "0.26.0", "4df88977e2e357c6720e1b650f613444bfb48c5acfc6a0c646ab007d08ad13bf", [:mix], [{:html_entities, "~> 0.5.0", [hex: :html_entities, repo: "hexpm", optional: false]}], "hexpm", "e7b66ce7feef5518a9cd9fc7b52dd62a64028bd9cb6d6ad282a0f0fc90a4ae52"},
   "gettext": {:hex, :gettext, "0.17.4", "f13088e1ec10ce01665cf25f5ff779e7df3f2dc71b37084976cf89d1aa124d5c", [:mix], [], "hexpm", "3c75b5ea8288e2ee7ea503ff9e30dfe4d07ad3c054576a6e60040e79a801e14d"},
